@@ -1,0 +1,16 @@
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.exe
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.deps.json
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.runtimeconfig.json
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.runtimeconfig.dev.json
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.dll
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\ref\BarsEvents.dll
+C:\Bars\Events\BarsEvents\BarsEvents\bin\Debug\net5.0\BarsEvents.pdb
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.csproj.AssemblyReference.cache
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.AssemblyInfoInputs.cache
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.AssemblyInfo.cs
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.csproj.CoreCompileInputs.cache
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.dll
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\ref\BarsEvents.dll
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.pdb
+C:\Bars\Events\BarsEvents\BarsEvents\obj\Debug\net5.0\BarsEvents.genruntimeconfig.cache
